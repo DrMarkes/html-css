@@ -1,0 +1,72 @@
+body {
+    background-color: #f8f8f8;
+}
+
+.menu {
+    list-style-type: none
+}
+
+.menu li a {
+    text-decoration: none;
+    color: firebrick;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.products {
+    color: black;
+    font-size: 18px;
+    font-weight: 400;
+    background: #eaeaea;
+}
+
+.short {
+    color: #707070;
+    font-size: 14px;
+    font-style: italic;
+    line-height: 16px;
+}
+
+.characteristics {
+    list-style-image: url(img/a1_marker.png);
+    color: darkblue;
+    font-size: 18px;
+    font-style: oblique;
+}
+
+.description {
+    color: #484343;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+}
+
+.image {
+    outline: 2px solid blue;
+}
+
+form {
+    width: 400px;
+}
+
+input {
+    width: 100%;
+    height: 30px;
+    color: cornflowerblue;
+    font-size: 16px;
+    font-style: italic;
+}
+
+.button {
+    width: 45%;
+    color: black;
+}
+
+textarea {
+    width: 100%;
+    color: cornflowerblue;
+    font-size: 16px;
+    font-style: italic;
+}
